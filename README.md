@@ -4,10 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inefabledude&label=Profile%20views&color=0e75b6&style=flat" alt="inefabledude" /> </p>
 
 - 🌱 Actualmente estoy mejorando mis habilidades en **MongoDB, Express, Node.JS, React**
-- 📫 Puedes encontrarme mandando un correo a **udgbaruch@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
+  - 📫 Puedes encontrarme mandando un correo a **udgbaruch@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
