@@ -5,6 +5,8 @@
 [![Github](https://img.shields.io/github/followers/InefableDude?label=Follow&style=social)](https://github.com/InefableDude)
 <img src="https://komarev.com/ghpvc/?username=inefabledude&label=Profile%20views&color=0e75b6&style=flat" alt="inefabledude" />
 
+![CodeWars](https://www.codewars.com/users/Inefable_Dude/badges/small)
+
 ![Baruch Rodriguez's GitHub stats](https://github-readme-stats.vercel.app/api?username=InefableDude&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InefableDude"/>
 
